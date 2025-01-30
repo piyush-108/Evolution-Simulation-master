@@ -51,10 +51,7 @@ below are some gifs to show how the code actually looks when it runs... these gi
 ![nn_sense Prey-predator](Zoo/neural_network_sense/nn_sense.gif)
 
 
-# Team
-- [Tanmay Kumar Sinha][tks]
-- [Chaitanya Kharyal][ck]
-- [Yash Chaurasia][yc]
+
 
 # License
 
@@ -63,6 +60,4 @@ MIT License
 
 [Evolution]: https://www.youtube.com/playlist?list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB
 [Primer]: https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ
-[tks]: https://github.com/Tanmay-Kumar-Sinha
-[ck]: https://github.com/kharyal
-[yc]: https://github.com/Y5Yash
+
